@@ -37,7 +37,7 @@
 1. Убедитесь, что у вас установлен Python 3
 2. Склонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/Snake.git
+git clone https://github.com/Timok277/Snake.git
 cd Snake
 ```
 3. Установите зависимости с помощью requirements.txt:
